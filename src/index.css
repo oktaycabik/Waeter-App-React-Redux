@@ -1,0 +1,17 @@
+.bar{
+    justify-content: center !important;
+    align-items: center !important;
+    display: flex !important;
+
+   
+}
+.bar select{
+    width: 250px;
+    height: 50px;
+    border-radius: 3px;
+    border: black 3px solid;
+}
+body{
+    background-color: #cdc4f9 !important;
+    box-sizing: border-box;
+}
